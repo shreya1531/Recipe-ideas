@@ -65,5 +65,8 @@ Pagination or infinite scroll for large results
 
 DEMO LINK:https://recipe-ideas-zeta.vercel.app/
 
+AI SEARCH HISTORY LINK:https://chatgpt.com/share/6900ec6e-e87c-800c-a5ab-bae3f8da13df
+
+
 
 
